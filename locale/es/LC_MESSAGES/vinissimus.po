@@ -19286,3 +19286,6 @@ msgid "Juntos se ahorra ${descuento}"
 msgstr "Juntos se ahorra ${descuento}"
 
 
+
+msgid "dummya"
+msgstr ""
