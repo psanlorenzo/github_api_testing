@@ -19292,3 +19292,6 @@ msgstr ""
 
 msgid "prova comprovant"
 msgstr ""
+
+msgid "Yellow"
+msgstr ""
