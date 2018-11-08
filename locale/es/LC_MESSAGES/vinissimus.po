@@ -19289,3 +19289,6 @@ msgstr "Juntos se ahorra ${descuento}"
 
 msgid "dummya"
 msgstr ""
+
+msgid "prova comprovant"
+msgstr ""
