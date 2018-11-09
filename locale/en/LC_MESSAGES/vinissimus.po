@@ -19271,36 +19271,3 @@ msgid "Juntos se ahorra ${descuento}"
 msgstr "Buy together and save ${descuento}"
 
 
-
-msgid "prova comprovant"
-msgstr ""
-
-msgid "dummya"
-msgstr ""
-
-msgid "prova comprovant"
-msgstr ""
-
-msgid "Yellow"
-msgstr ""
-
-msgid "provant api"
-msgstr ""
-
-msgid "Prova3"
-msgstr ""
-
-msgid "Prova4"
-msgstr ""
-
-msgid "prova5"
-msgstr ""
-
-msgid "prova 6 i 7"
-msgstr ""
-
-msgid "prova 8"
-msgstr ""
-
-msgid "prova 9"
-msgstr ""
