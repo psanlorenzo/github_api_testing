@@ -19286,3 +19286,18 @@ msgid "Juntos se ahorra ${descuento}"
 msgstr "Juntos se ahorra ${descuento}"
 
 
+
+msgid "dummya"
+msgstr ""
+
+msgid "prova comprovant"
+msgstr ""
+
+msgid "Yellow"
+msgstr ""
+
+msgid "provant api"
+msgstr ""
+
+msgid "Prova3"
+msgstr ""
