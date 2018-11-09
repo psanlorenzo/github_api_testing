@@ -19287,3 +19287,6 @@ msgstr "Juntos se ahorra ${descuento}"
 
 
 
+
+msgid "prueba de github"
+msgstr ""
