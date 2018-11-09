@@ -1,0 +1,157 @@
+# Gettext Message File for PlacelessTranslationService.
+msgid ""
+msgstr ""
+"Project-Id-Version: pts-\n"
+"POT-Creation-Date: 2003-10-04 12:51+0300\n"
+"Last-Translator: \n"
+"Language-Team:  <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-code: fr\n"
+"Language-name: French\n"
+"Preferred-encodings: utf-8 latin9 latin1\n"
+"Domain: dates\n"
+
+# Amb python 2.7.3, la primera entrada no la carrega
+# import gettext
+# t = gettext.translation('db', "/opt/Zope2/locales", languages=['en'])
+# _ = t.gettext
+# print _(u'dummy')
+msgid "dummy"
+msgstr "dummy2"
+
+
+msgid "day0"
+msgstr "Dimanche"
+
+msgid "day1"
+msgstr "Lundi"
+
+msgid "day2"
+msgstr "Mardi"
+
+msgid "day3"
+msgstr "Mercredi"
+
+msgid "day4"
+msgstr "Jeudi"
+
+msgid "day5"
+msgstr "Vendredi"
+
+msgid "day6"
+msgstr "Samedi"
+
+
+msgid "month01"  
+msgstr "Janvier"
+
+msgid "month02"
+msgstr "Février"
+
+msgid "month03"
+msgstr "Mars"
+
+msgid "month04"
+msgstr "Avril"
+
+msgid "month05"
+msgstr "Mai"
+
+msgid "month06"
+msgstr "Juin"
+
+msgid "month07"
+msgstr "Juillet"
+
+msgid "month08"
+msgstr "Août"
+
+msgid "month09"
+msgstr "Septembre"
+
+msgid "month10"
+msgstr "Octobre"
+
+msgid "month11"
+msgstr "Novembre"
+
+msgid "month12"
+msgstr "Décembre"
+
+
+msgid "%A, día %d"
+msgstr "%A %d"
+
+msgid "%A %d de %B"
+msgstr "%A %d %B"
+
+msgid "%B de %Y"
+msgstr "%B %Y"
+
+msgid "%d de %B"
+msgstr "%d %B"
+
+msgid "%d de %B de %Y"
+msgstr "%d %B %Y"
+
+
+msgid "Domingo"
+msgstr "Dimanche"
+
+msgid "Lunes"
+msgstr "Lundi"
+
+msgid "Martes"
+msgstr "Mardi"
+      
+msgid "Miércoles"
+msgstr "Mercredi"
+
+msgid "Jueves"
+msgstr "Jeudi"
+
+msgid "Viernes"
+msgstr "Vendredi"
+
+msgid "Sábado"
+msgstr "Samedi"
+
+
+msgid "Enero"
+msgstr "Janvier"
+
+msgid "Febrero"
+msgstr "Février"
+
+msgid "Marzo"
+msgstr "Mars"
+
+msgid "Abril"
+msgstr "Avril"
+
+msgid "Mayo"
+msgstr "Mai"
+         
+msgid "Junio"
+msgstr "Juin"
+
+msgid "Julio"
+msgstr "Juillet"
+
+msgid "Agosto"
+msgstr "Août"
+
+msgid "Septiembre"
+msgstr "Septembre"
+
+msgid "Octubre"
+msgstr "Octobre"
+
+msgid "Noviembre"
+msgstr "Novembre"
+
+msgid "Diciembre"
+msgstr "Décembre"

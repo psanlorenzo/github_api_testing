@@ -1,0 +1,2202 @@
+# Gettext Message File for PlacelessTranslationService.
+msgid ""
+msgstr ""
+"Project-Id-Version: pts-\n"
+"POT-Creation-Date: 2003-10-04 12:51+0300\n"
+"Last-Translator: \n"
+"Language-Team:  <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-code: fr\n"
+"Language-name: French\n"
+"Preferred-encodings: utf-8 latin9 latin1\n"
+"Domain: db\n"
+
+# Amb python 2.7.3, la primera entrada no la carrega
+# import gettext
+# t = gettext.translation('db', "/opt/Zope2/locales", languages=['en'])
+# _ = t.gettext
+# print _(u'dummy')
+msgid "dummy"
+msgstr "dummy2"
+
+
+msgid "España"
+msgstr "Espagne"
+
+msgid "Alemania"
+msgstr "Allemagne"
+
+msgid "Argentina"
+msgstr "Argentine"
+
+msgid "Australia"
+msgstr "Australie"
+
+msgid "Austria"
+msgstr "Autriche"
+
+msgid "Chile"
+msgstr "Chili"
+
+msgid "Francia"
+msgstr "France"
+
+msgid "Hungría"
+msgstr "Hongrie"
+
+msgid "Italia"
+msgstr "Italie"
+
+msgid "Nueva Zelanda"
+msgstr "Nouvelle-Zélande"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Reino Unido"
+msgstr "Royaume-Uni"
+
+msgid "Inglaterra"
+msgstr "Anglaterre"
+
+msgid "País de Gales"
+msgstr "Pays de Galles"
+
+msgid "Escocia"
+msgstr "Écosse"
+
+msgid "Estados Unidos"
+msgstr "États-Unis"
+
+msgid "Canadá"
+msgstr "Canada"
+
+msgid "Japón"
+msgstr "Japon"
+
+msgid "Sudáfrica"
+msgstr "Afrique du Sud"
+
+msgid "Israel"
+msgstr "Israël"
+
+msgid "Rusia"
+msgstr "Russie"
+
+msgid "Croacia"
+msgstr "Croatie"
+
+#. Added on Fri Jul  6 16:22:53 2007
+#.
+#: /Vinissimus/portlets/data_input
+#. Line 158, Column 19
+#.
+#. Orginal text:
+#. < No original text supplied >
+msgid "Andorra"
+msgstr "Andorre"
+
+#. Added on Fri Jul  6 16:22:53 2007
+#.
+#: /Vinissimus/portlets/data_input
+#. Line 158, Column 19
+#.
+#. Orginal text:
+#. < No original text supplied >
+msgid "Bélgica"
+msgstr "Belgique"
+
+#. Added on Fri Jul  6 16:22:53 2007
+#.
+#: /Vinissimus/portlets/data_input
+#. Line 158, Column 19
+#.
+#. Orginal text:
+#. < No original text supplied >
+msgid "Dinamarca"
+msgstr "Danemark"
+
+#. Added on Fri Jul  6 16:22:53 2007
+#.
+#: /Vinissimus/portlets/data_input
+#. Line 158, Column 19
+#.
+#. Orginal text:
+#. < No original text supplied >
+msgid "Finlandia"
+msgstr "Finlande"
+
+#. Added on Fri Jul  6 16:22:53 2007
+#.
+#: /Vinissimus/portlets/data_input
+#. Line 158, Column 19
+#.
+#. Orginal text:
+#. < No original text supplied >
+msgid "Países Bajos"
+msgstr "Pays-Bas"
+
+#. Added on Fri Jul  6 16:22:53 2007
+#.
+#: /Vinissimus/portlets/data_input
+#. Line 158, Column 19
+#.
+#. Orginal text:
+#. < No original text supplied >
+msgid "Irlanda"
+msgstr "Irlande"
+
+#. Added on Fri Jul  6 16:22:53 2007
+#.
+#: /Vinissimus/portlets/data_input
+#. Line 158, Column 19
+#.
+#. Orginal text:
+#. < No original text supplied >
+msgid "Luxemburgo"
+msgstr "Luxembourg"
+
+#. Added on Fri Jul  6 16:22:53 2007
+#.
+#: /Vinissimus/portlets/data_input
+#. Line 158, Column 19
+#.
+#. Orginal text:
+#. < No original text supplied >
+msgid "Suecia"
+msgstr "Suède"
+
+#. Added on Fri Jul  6 16:22:53 2007
+#.
+#: /Vinissimus/portlets/data_input
+#. Line 158, Column 19
+#.
+#. Orginal text:
+#. < No original text supplied >
+msgid "Suiza"
+msgstr "Suisse"
+
+
+#. Added on Fri Jul  6 14:52:19 2007
+#.
+#: /Vinissimus/carrito/tarifas_transporte_html
+#. Line 17, Column 9
+#.
+#. Orginal text:
+#. Península
+msgid "Península"
+msgstr "Péninsule"
+
+#. Added on Fri Jul  6 14:52:19 2007
+#.
+#: /Vinissimus/carrito/tarifas_transporte_html
+#. Line 17, Column 9
+#.
+#. Orginal text:
+#. Baleares
+msgid "Baleares"
+msgstr "Îles Baléares"
+
+#. Added on Fri Jul  6 14:52:19 2007
+#.
+#: /Vinissimus/carrito/tarifas_transporte_html
+#. Line 17, Column 9
+#.
+#. Orginal text:
+#. Canarias, Ceuta y Melilla
+msgid "Canarias, Ceuta y Melilla"
+msgstr "Îles Canaries, Ceuta et Melilla"
+
+#. Added on Fri Jul  6 14:52:19 2007
+#.
+#: /Vinissimus/carrito/tarifas_transporte_html
+#. Line 17, Column 9
+#.
+#. Orginal text:
+#. Austria, Dinamarca, Finlandia, Suecia, Suiza
+msgid "Austria, Dinamarca, Finlandia, Suecia, Suiza"
+msgstr "Autriche, Danemark, Finlande, Suède, Suisse"
+
+msgid "Austria, Dinamarca, Finlandia, Irlanda, Suecia"
+msgstr "Autriche, Danemark, Finlande, Irlande, Suède"
+
+#. Added on Fri Jul  6 14:52:19 2007
+#.
+#: /Vinissimus/carrito/tarifas_transporte_html
+#. Line 17, Column 9
+#.
+#. Orginal text:
+#. Benelux
+msgid "Benelux"
+msgstr "Benelux"
+
+
+#. Added on Fri Jul  6 14:52:19 2007
+#.
+#: /Vinissimus/carrito/tarifas_transporte_html
+#. Line 17, Column 9
+#.
+#. Orginal text:
+#. Grecia
+msgid "Grecia"
+msgstr "Grèce"
+
+#. Added on Fri Jul  6 14:52:19 2007
+#.
+#: /Vinissimus/carrito/tarifas_transporte_html
+#. Line 17, Column 9
+#.
+#. Orginal text:
+#. Irlanda, Reino Unido
+msgid "Irlanda, Reino Unido"
+msgstr "Irlande, Royaume-Uni"
+
+msgid "Alemania, Reino Unido"
+msgstr "Allemagne, Royaume-Uni"
+
+msgid "Trinidad y Tobago"
+msgstr "Trinité-et-Tobago"
+
+msgid "Caribe"
+msgstr "Caraïbe"
+
+msgid "Haití"
+msgstr "Haïti"
+
+
+#. DESTILADOS
+
+msgid "Aguardiente"
+msgstr "Eau-de-vie"
+
+msgid "Armagnac"
+msgstr "Armagnac"
+
+msgid "Brandy"
+msgstr "Brandy"
+
+msgid "Calvados"
+msgstr "Calvados"
+
+msgid "Cognac"
+msgstr "Cognac"
+
+msgid "Ginebra"
+msgstr "Gin"
+
+msgid "Grappa"
+msgstr "Grappa"
+
+msgid "Marc de Cava"
+msgstr "Marc de Cava"
+
+msgid "Orujo"
+msgstr "Orujo"
+
+msgid "Ron"
+msgstr "Rhum"
+
+msgid "Tequila"
+msgstr "Tequila"
+
+msgid "Vodka"
+msgstr "Vodka"
+
+msgid "Whisky Blended"
+msgstr "Whisky Blended"
+
+msgid "Whisky Single Malt"
+msgstr "Whisky Single Malt"
+
+msgid "Digestivos"
+msgstr "Digestif"
+
+msgid "Vermut"
+msgstr "Vermouth"
+
+msgid "Ratafía"
+msgstr "Ratafia"
+
+msgid "Limoncello"
+msgstr "Limoncello"
+
+msgid "Crema"
+msgstr "Liqueur de crème"
+
+msgid "Aguardiente de fruta"
+msgstr "Eaux-de-vie de fruits"
+
+msgid "Aguardiente de orujo"
+msgstr "Eau-de-vie de marc"
+
+msgid "Licor de hierbas"
+msgstr "Liqueur aux herbes"
+
+msgid "Anís"
+msgstr "Liqueur d'anis"
+
+msgid "Otros licores"
+msgstr "Autres liqueurs"
+
+msgid "Sidra de hielo"
+msgstr "Cidre de glace"
+
+msgid "Sake"
+msgstr "Saké"
+
+
+#. UVAS
+msgid "Tinta de Aÿ"
+msgstr "Aÿ rouge"
+
+msgid "Albariño"
+msgstr "Albariño"
+
+msgid "Albillo"
+msgstr "Albillo"
+
+msgid "Ancellotta"
+msgstr "Ancellotta"
+
+msgid "Bastardo"
+msgstr "Bastardo"
+
+msgid "Bobal"
+msgstr "Bobal"
+
+msgid "Cabernet Franc"
+msgstr "Cabernet Franc"
+
+msgid "Cabernet Sauvignon"
+msgstr "Cabernet Sauvignon"
+
+msgid "Caiño Blanco"
+msgstr "Caiño Blanco"
+
+msgid "Caladoc"
+msgstr "Caladoc"
+
+msgid "Callet"
+msgstr "Callet"
+
+msgid "Cariñena"
+msgstr "Carignan"
+
+msgid "Carmenère"
+msgstr "Carmenère"
+
+msgid "Chardonnay"
+msgstr "Chardonnay"
+
+msgid "Chenin Blanc"
+msgstr "Chenin Blanc"
+
+msgid "Dolcetto"
+msgstr "Dolcetto"
+
+msgid "Doña Blanca"
+msgstr "Doña Blanca"
+
+msgid "Fogoneu"
+msgstr "Fogoneu"
+
+msgid "Furmint"
+msgstr "Furmint"
+
+msgid "Gamay"
+msgstr "Gamay"
+
+msgid "Garnacha"
+msgstr "Grenache"
+
+msgid "Garnacha Blanca"
+msgstr "Grenache Blanc"
+
+msgid "Garnacha Negra"
+msgstr "Grenache Noir"
+
+msgid "Garnacha Peluda"
+msgstr "Grenache Poilu"
+
+msgid "Garnacha Tinta"
+msgstr "Grenache Rouge"
+
+msgid "Garnacha Tintorera"
+msgstr "Grenache Teinturier"
+
+msgid "Gewürztraminer"
+msgstr "Gewürztraminer"
+
+msgid "Godello"
+msgstr "Godello"
+
+msgid "Graciano"
+msgstr "Graciano"
+
+msgid "Grüner Veltliner"
+msgstr "Grüner Veltliner"
+
+msgid "Hondarribi Beltza"
+msgstr "Hondarribi Beltza"
+
+msgid "Hondarribi Zuri"
+msgstr "Hondarribi Zuri"
+
+msgid "Hárslevelü"
+msgstr "Hárslevelü"
+
+msgid "Incroccio Manzoni"
+msgstr "Incroccio Manzoni"
+
+msgid "Lado"
+msgstr "Lado"
+
+msgid "Lambrusco Grasparossa"
+msgstr "Lambrusco Grasparossa"
+
+msgid "Listán Negro"
+msgstr "Listán Negro"
+
+msgid "Loureiro"
+msgstr "Loureiro"
+
+msgid "Macabeo"
+msgstr "Macabeo"
+
+msgid "Malbec"
+msgstr "Malbec"
+
+msgid "Malvasía"
+msgstr "Malvoisie"
+
+msgid "Mantonegro"
+msgstr "Mantonegro"
+
+msgid "Marcelan"
+msgstr "Marcelan"
+
+msgid "Marsanne"
+msgstr "Marsanne"
+
+msgid "Mazuelo"
+msgstr "Mazuelo"
+
+msgid "Mencía"
+msgstr "Mencía"
+
+msgid "Merlot"
+msgstr "Merlot"
+
+msgid "Monastrell"
+msgstr "Mourvèdre"
+
+msgid "Moreto"
+msgstr "Moreto"
+
+msgid "Moscatel de Alejandría"
+msgstr "Muscat d'Alexandrie"
+
+msgid "Moscatel de Grano Menudo"
+msgstr "Muscat à petits grains"
+
+msgid "Moscato Bianco"
+msgstr "Moscato Bianco"
+
+msgid "Mourvèdre"
+msgstr "Mourvèdre"
+
+msgid "Muscat Frontignac"
+msgstr "Muscat de Frontignan"
+
+msgid "Muscat lunel"
+msgstr "Muscat de Lunel"
+
+msgid "Müller-Thurgau"
+msgstr "Müller-Thurgau"
+
+msgid "Nebbiolo"
+msgstr "Nebbiolo"
+
+msgid "Negramoll"
+msgstr "Negramoll"
+
+msgid "Palomino Fino"
+msgstr "Palomino Fino"
+
+msgid "Parellada"
+msgstr "Parellada"
+
+msgid "Pedro Ximénez"
+msgstr "Pedro Ximénez"
+
+msgid "Periquita"
+msgstr "Periquita"
+
+msgid "Petit Courbut"
+msgstr "Petit Courbut"
+
+msgid "Petite Syrah"
+msgstr "Petite Syrah"
+
+msgid "Petit Verdot"
+msgstr "Petit Verdot"
+
+msgid "Pinot Blanco"
+msgstr "Pinot Blanco"
+
+msgid "Pinot Meunier"
+msgstr "Pinot Meunier"
+
+msgid "Pinot Noir"
+msgstr "Pinot Noir"
+
+msgid "Riesling"
+msgstr "Riesling"
+
+msgid "Roussanne"
+msgstr "Roussanne"
+
+msgid "Samsó"
+msgstr "Samsó"
+
+msgid "Sangiovese"
+msgstr "Sangiovese"
+
+msgid "Sauvignon Blanc"
+msgstr "Sauvignon Blanc"
+
+msgid "Subirat Parent"
+msgstr "Subirat Parent"
+
+msgid "Sumoll"
+msgstr "Sumoll"
+
+msgid "Syrah"
+msgstr "Syrah"
+
+msgid "Sémillon"
+msgstr "Sémillon"
+
+msgid "Tempranillo"
+msgstr "Tempranillo"
+
+msgid "Tinta Barroca"
+msgstr "Tinta Barroca"
+
+msgid "Tinta Fina"
+msgstr "Tinta Fina"
+
+msgid "Tinta Roriz"
+msgstr "Tinta Roriz"
+
+msgid "Tinta de Toro"
+msgstr "Tinta de Toro"
+
+msgid "Tintorera"
+msgstr "Tintorera"
+
+msgid "Torrontés"
+msgstr "Torrontés"
+
+msgid "Touriga Nacional"
+msgstr "Touriga Nacional"
+
+msgid "Treixadura"
+msgstr "Treixadura"
+
+msgid "Trincadeira"
+msgstr "Trincadeira"
+
+msgid "Verdejo"
+msgstr "Verdejo"
+
+msgid "Viognier"
+msgstr "Viognier"
+
+msgid "Viura"
+msgstr "Viura"
+
+msgid "Xarel·lo"
+msgstr "Xarel·lo"
+
+msgid "Prieto Picudo"
+msgstr "Prieto Picudo"
+
+msgid "Caiño Tinto"
+msgstr "Caiño Tinto"
+
+msgid "Sousón"
+msgstr "Sousón"
+
+msgid "Brancellao"
+msgstr "Brancellao"
+
+msgid "Castañal"
+msgstr "Castañal"
+
+msgid "Pedral"
+msgstr "Pedral"
+
+msgid "Picapoll"
+msgstr "Picapoll"
+
+msgid "Maturana Tinta"
+msgstr "Maturana Tinta"
+
+msgid "Maturana Blanca"
+msgstr "Maturana Blanca"
+
+msgid "Meseguera"
+msgstr "Merserguera"
+
+
+
+
+#. VINOS
+msgid "Joven"
+msgstr "Jeune"
+
+msgid "Joven con Crianza"
+msgstr "Jeune élevé en chêne"
+
+msgid "Crianza"
+msgstr "Crianza"
+
+msgid "Reserva"
+msgstr "Reserva"
+
+msgid "Gran Reserva"
+msgstr "Gran Reserva"
+
+msgid "Con Crianza"
+msgstr "Élevé en chêne"
+
+msgid "Sin Crianza"
+msgstr "Sans élevage en chêne"
+
+msgid "Tinto"
+msgstr "Rouge"
+
+msgid "Tinto Joven"
+msgstr "Rouge jeune"
+
+msgid "Vino tinto Joven"
+msgstr "Vin rouge jeune"
+
+msgid "Tinto Joven con Crianza"
+msgstr "Rouge jeune élevé en chêne"
+
+msgid "Vino tinto Joven con Crianza"
+msgstr "Vin rouge jeune élevé en chêne"
+
+msgid "Tinto Crianza"
+msgstr "Rouge Crianza"
+
+msgid "Vino tinto Crianza"
+msgstr "Vin rouge Crianza"
+
+msgid "Tinto Reserva"
+msgstr "Rouge Reserva"
+
+msgid "Vino tinto Reserva"
+msgstr "Vin rouge Reserva"
+
+msgid "Tinto Gran Reserva"
+msgstr "Rouge Gran Reserva"
+
+msgid "Vino tinto Gran Reserva"
+msgstr "Vin rouge Gran Reserva"
+
+msgid "Blanco"
+msgstr "Blanc"
+
+msgid "Blanco Con Crianza"
+msgstr "Blanc élevé en chêne"
+
+msgid "Vino blanco Con Crianza"
+msgstr "Vin blanc élevé en chêne"
+
+msgid "Blanco Sin Crianza"
+msgstr "Blanc sans élevage en chêne"
+
+msgid "Vino blanco Sin Crianza"
+msgstr "Vin blanc sans élevage en chêne"
+
+msgid "Espumoso"
+msgstr "Mousseux"
+
+msgid "Vino espumoso"
+msgstr "Vin mousseux"
+
+msgid "Espumoso Joven"
+msgstr "Mousseux jeune"
+
+msgid "Vino espumoso Joven"
+msgstr "Vin mousseux jeune"
+
+msgid "Espumoso Reserva"
+msgstr "Mousseux mature"
+
+msgid "Vino espumoso Reserva"
+msgstr "Vin mousseux mature"
+
+msgid "Espumoso Gran Reserva"
+msgstr "Mousseux très mature"
+
+msgid "Vino espumoso Gran Reserva"
+msgstr "Vin mousseux très mature"
+
+msgid "Rosado"
+msgstr "Rosé"
+
+msgid "Vino rosado"
+msgstr "Vin rosé"
+
+msgid "Rosado Joven"
+msgstr "Rosé jeune"
+
+msgid "Vino rosado Joven"
+msgstr "Vin rosé jeune"
+
+msgid "Rosado Sin Crianza"
+msgstr "Rosé sans élevage en chêne"
+
+msgid "Vino rosado Sin Crianza"
+msgstr "Vin rosé sans élevage en chêne"
+
+msgid "Rosado Con Crianza"
+msgstr "Rosé élevé en chêne"
+
+msgid "Vino rosado Con Crianza"
+msgstr "Vin rosé élevé en chêne"
+
+msgid "Generoso"
+msgstr "Fortifié"
+
+msgid "Vino generoso"
+msgstr "Vin fortifié"
+
+msgid "Dulce"
+msgstr "Doux"
+
+msgid "Vino dulce"
+msgstr "Vin doux"
+
+msgid "El vino más vendido de Vinissimus"
+msgstr "Le vin le plus vendu de Vinissimus"
+
+msgid "El Tinto más vendido"
+msgstr "Le rouge le plus vendu"
+
+msgid "El 2º vino más vendido de Vinissimus"
+msgstr "Le 2e vin le plus vendu de Vinissimus"
+
+msgid "El 2º Tinto más vendido"
+msgstr "Le 2e rouge le plus vendu"
+
+msgid "El Blanco más vendido"
+msgstr "Le blanc le plus vendu"
+
+msgid "El 2º Blanco más vendido"
+msgstr "Le 2e blanc le plus vendu"
+
+msgid "El Espumoso más vendido"
+msgstr "Le mousseux le plus vendu"
+
+msgid "El 2º Espumoso más vendido"
+msgstr "Le 2e mousseux le plus vendu"
+
+msgid "El Rosado más vendido"
+msgstr "Le rosé le plus vendu"
+ 
+msgid "El 2º Rosado más vendido"
+msgstr "Le 2e rosé le plus vendu"
+
+msgid "El Generoso más vendido"
+msgstr "Le fortifié le plus vendu"
+ 
+msgid "El 2º Generoso más vendido"
+msgstr "Le 2e fortifié le plus vendu"
+
+msgid "El Dulce más vendido"
+msgstr "Le doux le plus vendu"
+ 
+msgid "El 2º Dulce más vendido"
+msgstr "Le 2e doux le plus vendu"
+ 
+msgid "El pack más vendido"
+msgstr "Le pack le plus vendu"
+ 
+msgid "La cerveza más vendida de Vinissimus"
+msgstr "La bière la plus vendue de Vinissimus"
+ 
+msgid "La segunda cerveza más vendida de Vinissimus"
+msgstr "La seconde bière la plus vendue de Vinissimus"
+
+
+
+msgid "Vino tinto con D.O. ${region}"
+msgstr "Vin rouge ${region}"
+
+msgid "Vino blanco con D.O. ${region}"
+msgstr "Vin blanc ${region}"
+
+msgid "Vino tinto con ${uva}"
+msgstr "Vin rouge à base du cépage ${uva}"
+
+msgid "Vino blanco con ${uva}"
+msgstr "Vin blanc à base du cépage ${uva}"
+
+msgid "Vinos de ${pais}"
+msgstr "Vins ${pais}"
+
+msgid "Vinos de ${region}"
+msgstr "Vins ${region}"
+
+msgid "Vinos con ${uva}"
+msgstr "Vins à base du cépage ${uva}"
+
+msgid "Otros vinos tintos de ${region}"
+msgstr "Autres vins rouges ${region}"
+
+msgid "Otros vinos blancos de ${region}"
+msgstr "Autres vins blancs ${region}"
+
+msgid "Otros vinos de ${region}"
+msgstr "Autres vins ${region}"
+
+msgid "Otros vinos tintos ${region}"
+msgstr "Autres vins rouges ${region}"
+
+msgid "Otros vinos blancos ${region}"
+msgstr "Autres vins blancs ${region}"
+
+msgid "Otros vinos ${region}"
+msgstr "Autres vins ${region}"
+
+msgid "Otros vinos de D.O.s españolas"
+msgstr "Autres vins d'appellations espagnoles"
+
+msgid "Otros vinos con varietales españoles tintos"
+msgstr "Autres vins à base de cépages espagnols rouges"
+
+msgid "Otros vinos con varietales españoles blancos"
+msgstr "Autres vins à base de cépages espagnols blancs"
+
+msgid "Otros vinos con varietales internacionales blancos"
+msgstr "Autres vins à base de cépages internationaux blancs"
+
+msgid "Otros vinos con varietales internacionales tintos"
+msgstr "Autres vins à base de cépages internationaux rouges"
+
+msgid "Vino de ${bodega}"
+msgstr "Vin de ${bodega}"
+
+msgid "Magnum"
+msgstr "Magnum"
+
+msgid "Vino tinto de ${pais}"
+msgstr "Vin rouge ${pais}"
+
+msgid "Vino blanco de ${pais}"
+msgstr "Vin blanc ${pais}"
+
+msgid "andaluces"
+msgstr "d'Andalousie"
+
+msgid "espumosos"
+msgstr "mousseux"
+
+msgid "extranjeros"
+msgstr "non espagnols"
+
+msgid "aragoneses"
+msgstr "d'Aragon"
+
+msgid "de las islas baleares"
+msgstr "des îles Baléares"
+
+msgid "de las Islas Canarias"
+msgstr "des îles Canaries"
+
+msgid "catalanes"
+msgstr "de Catalogne"
+
+msgid "de Castilla la Mancha"
+msgstr "de Castille - La Manche"
+
+msgid "extremeños"
+msgstr "d'Extrémadure"
+
+msgid "gallegos"
+msgstr "de Galice"
+
+msgid "valencianos"
+msgstr "de la Communauté Valencienne"
+
+msgid "murcianos"
+msgstr "de Murcie"
+
+msgid "de Navarra"
+msgstr "de Navarre"
+
+msgid "de Castilla-León"
+msgstr "de Castille-et-León"
+
+msgid "del País Vasco"
+msgstr "du Pays Basque"
+
+msgid "Mendoza"
+msgstr "Mendoza"
+
+msgid "Wachau"
+msgstr "Wachau"
+
+msgid "Barossa Valley"
+msgstr "Barossa Valley"
+
+msgid "Margaret River"
+msgstr "Margaret River"
+
+msgid "Pyrenees"
+msgstr "Pyrenees"
+
+msgid "Southern Australia"
+msgstr "Southern Australia"
+
+msgid "Western Australia"
+msgstr "Western Australia"
+
+msgid "Suiza"
+msgstr "Suisse"
+
+msgid "Valle Central"
+msgstr "Valle Central"
+
+msgid "Valle de Casablanca"
+msgstr "Valle de Casablanca"
+
+msgid "Valle de Colchagua"
+msgstr "Valle de Colchagua"
+
+msgid "Valle del Aconcagua"
+msgstr "Valle del Aconcagua"
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Mosel-Saar-Ruwer"
+msgstr "Mosel-Saar-Ruwer"
+
+msgid "Rheinhessen"
+msgstr "Rheinhessen"
+
+msgid "República Dominicana"
+msgstr "Republique dominicaine"
+
+
+
+msgid "Priorato"
+msgstr "Priorat"
+
+msgid "Alsacia"
+msgstr "Alsace"
+
+msgid "Borgoña"
+msgstr "Bourgogne"
+
+msgid "Burdeos"
+msgstr "Bordeaux"
+
+msgid "Calvados Pays d'Auge"
+msgstr "Calvados Pays d'Auge"
+
+msgid "Chablis"
+msgstr "Chablis"
+
+msgid "Champagne"
+msgstr "Champagne"
+
+msgid "Cognac"
+msgstr "Cognac"
+
+msgid "Còte de Beaune"
+msgstr "Côte de Beaune"
+
+msgid "Côte d'Or"
+msgstr "Côte d'Or"
+
+msgid "Côtes de Toul"
+msgstr "Côtes de Toul"
+
+msgid "Francia"
+msgstr "France"
+
+msgid "Languedoc"
+msgstr "Languedoc"
+
+msgid "Loire"
+msgstr "Loire"
+
+msgid "Roussillon"
+msgstr "Roussillon"
+
+msgid "Ródano"
+msgstr "Côtes du Rhône"
+
+msgid "Saussignac"
+msgstr "Saussignac"
+
+msgid "Sauternes"
+msgstr "Sauternes"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Tokaj-Hegyalja"
+msgstr "Tokaj-Hegyalja"
+
+msgid "Irlanda"
+msgstr "Irlande"
+
+msgid "Asti"
+msgstr "Asti"
+
+msgid "Barolo"
+msgstr "Barolo"
+
+msgid "Brunello di Montalcino"
+msgstr "Brunello di Montalcino"
+
+msgid "Chianti Classico"
+msgstr "Chianti Classico"
+
+msgid "Dolcetto d'Alba"
+msgstr "Dolcetto d'Alba"
+
+msgid "Emilia Romagna"
+msgstr "Emilia Romagna"
+
+msgid "Langhe Arneis"
+msgstr "Langhe Arneis"
+
+msgid "Moscato d'Asti"
+msgstr "Moscato d'Asti"
+
+msgid "Piamonte"
+msgstr "Piamonte"
+
+msgid "Rosso di Montalcino"
+msgstr "Rosso di Montalcino"
+
+msgid "Toscana"
+msgstr "Toscane"
+
+msgid "Valpolicella"
+msgstr "Valpolicella"
+
+msgid "Veneto"
+msgstr "Veneto"
+
+msgid "Jalisco"
+msgstr "Jalisco"
+
+msgid "Méjico"
+msgstr "Mexique"
+
+msgid "Marlborough"
+msgstr "Marlborough"
+
+msgid "Alentejo"
+msgstr "Alentejo"
+
+msgid "Douro"
+msgstr "Douro"
+
+msgid "Dão"
+msgstr "Dão"
+
+msgid "Porto"
+msgstr "Porto"
+
+msgid "Campbeltown"
+msgstr "Campbeltown"
+
+msgid "Highlands"
+msgstr "Highlands"
+
+msgid "Islands"
+msgstr "Islands"
+
+msgid "Islay"
+msgstr "Islay"
+
+msgid "Isle of Skye"
+msgstr "Isle of Skye"
+
+msgid "Lowlands"
+msgstr "Lowlands"
+
+msgid "Reino Unido"
+msgstr "Royaume-Uni"
+
+msgid "Speyside"
+msgstr "Speyside"
+
+msgid "Napa Valley"
+msgstr "Napa Valley"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Brut"
+msgstr "Brut"
+
+msgid "Brut Nature"
+msgstr "Brut Nature"
+
+msgid "Seco"
+msgstr "Sec"
+
+msgid "Semiseco"
+msgstr "Demi-sec"
+
+msgid "Más de 18 &euro;"
+msgstr "Plus de 18 &euro;"
+
+msgid "Más de 24 &euro;"
+msgstr "Plus de 24 &euro;"
+
+msgid "De añada"
+msgstr "Millésimé"
+
+msgid "Más de 50 &euro;"
+msgstr "Plus de 50 &euro;"
+
+msgid "Más de 90 &euro;"
+msgstr "Plus de 90 &euro;"
+
+msgid "Rosé"
+msgstr "Rosé"
+
+msgid "Millésimé"
+msgstr "Millésimé"
+
+msgid "Blanc de blancs"
+msgstr "Blanc de blancs"
+
+msgid "Blanc de noirs"
+msgstr "Blanc de noirs"
+
+msgid "Media botella"
+msgstr "Demie-bouteille"
+
+msgid "Cava rosado"
+msgstr "Cava rosé"
+
+msgid "Cava de añada"
+msgstr "Cava millésimé"
+
+msgid "Champagne Rosé"
+msgstr "Champagne rosé"
+
+msgid "Champagne Millésimé"
+msgstr "Champagne millésimé"
+
+msgid "media botella"
+msgstr "demie-bouteille"
+
+msgid "estándard"
+msgstr "bouteille"
+
+msgid "mágnum"
+msgstr "magnum"
+
+msgid "doble mágnum"
+msgstr "double magnum"
+
+msgid "jeroboam"
+msgstr "jéroboam"
+
+msgid "Jeroboam"
+msgstr "jéroboam"
+
+msgid "box"
+msgstr "box"
+
+msgid "imperial"
+msgstr "impériale"
+
+msgid "Imperial"
+msgstr "Impériale"
+
+msgid "matusalén"
+msgstr "mathusalem"
+
+msgid "Matusalén"
+msgstr "Mathusalem"
+
+msgid "Cava con ${uva}"
+msgstr "Cava à base du cépage ${uva}"
+
+msgid "Champagne con ${uva}"
+msgstr "Champagne à base du cépage ${uva}"
+
+msgid "Albarín"
+msgstr "Albarín"
+
+msgid "Arinto"
+msgstr "Arinto"
+
+msgid "Codega"
+msgstr "Codega"
+
+msgid "Donzelinho"
+msgstr "Donzelinho"
+
+msgid "Garnacha Gris"
+msgstr "Grenache Gris"
+
+msgid "Rabigato"
+msgstr "Rabigato"
+
+msgid "Viosinho"
+msgstr "Viosinho"
+
+msgid "Tinta Amarela"
+msgstr "Tinta Amarela"
+
+msgid "Touriga Franca"
+msgstr "Touriga Franca"
+
+msgid "Tinta Cão"
+msgstr "Tinta Cão"
+
+msgid "Tinta Francisca"
+msgstr "Tinta Francisca"
+
+msgid "Sousão"
+msgstr "Sousão"
+
+msgid "Sangiovese grosso"
+msgstr "Sangiovese Grosso"
+
+msgid "Tempranillo peludo"
+msgstr "Tempranillo Peludo"
+
+msgid "Tintilla"
+msgstr "Tintilla"
+
+msgid "Vijariego negro"
+msgstr "Vijariego Negro"
+
+
+msgid "Calvados"
+msgstr "Calvados"
+
+msgid "Normandía"
+msgstr "Normandie"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "República Dominicana"
+msgstr "République dominicaine"
+
+
+msgid "Whiskey Single Malt"
+msgstr "Whiskey Single Malt"
+
+msgid "0 - 6 €"
+msgstr "0 - 6 &euro;"
+
+msgid "6 - 12 €"
+msgstr "6 - 12 &euro;"
+
+msgid "12 - 18 €"
+msgstr "12 - 18 &euro;"
+
+msgid "18 - 24 €"
+msgstr "18 - 24 &euro;"
+
+msgid "0 - 10 €"
+msgstr "0 - 10 &euro;"
+
+msgid "0 - 18 €"
+msgstr "0 - 18 &euro;"
+
+msgid "0 - 35 €"
+msgstr "0 - 35 &euro;"
+
+msgid "35 - 50 €"
+msgstr "35 - 50 &euro;"
+
+msgid "10 - 18 €"
+msgstr "10 - 18 &euro;"
+
+msgid "Vino tinto Con Crianza"
+msgstr "Vin rouge élevé en chêne"
+
+msgid "Vino tinto Sin Crianza"
+msgstr "Vin rouge sans élevage en chêne"
+
+msgid "Vino tinto"
+msgstr "Vin rouge"
+
+msgid "Tinto Con Crianza"
+msgstr "Rouge élevé en chêne"
+
+msgid "Otros países"
+msgstr "Autres pays"
+
+msgid "Corcega"
+msgstr "Corse"
+
+msgid "Entrega en 2-3 días laborables"
+msgstr "Livraison sous 2-3 jours ouvrables"
+
+msgid "Destilados"
+msgstr "Spiritueux"
+
+msgid "Bulgaria"
+msgstr "Bulgarie"
+
+msgid "Chipre"
+msgstr "Chypre"
+
+msgid "República Checa"
+msgstr "République tchèque"
+
+msgid "Estonia"
+msgstr "Estonie"
+
+msgid "Lituania"
+msgstr "Lituanie"
+
+msgid "Letonia"
+msgstr "Lettonie"
+
+msgid "Malta"
+msgstr "Malte"
+
+msgid "Polonia"
+msgstr "Pologne"
+
+msgid "Rumanía"
+msgstr "Roumanie"
+
+msgid "Eslovenia"
+msgstr "Slovénie"
+
+msgid "Eslovaquia"
+msgstr "Slovaquie"
+
+msgid "Mónaco"
+msgstr "Monaco"
+
+msgid "Noruega"
+msgstr "Norvège"
+
+msgid "Barbados"
+msgstr "Barbade"
+
+
+#. PACKS
+
+msgid "Selección Alejandro Fernández"
+msgstr "Sélection Alejandro Fernández"
+
+msgid "Estuche Vilosell"
+msgstr "Coffret Vilosell"
+
+msgid "Estuche Abadal Cabernet Franc - Tempranillo + Bombolas de almendra"
+msgstr "Coffret Abadal Cabernet Franc - Tempranillo + chocolats aux amandes"
+
+msgid "Estuche La Montesa - 2 botellas"
+msgstr "Coffret La Montesa - 2 btlles."
+
+msgid "Estuche Cérvoles - 2 botellas"
+msgstr "Coffret Cérvoles - 2 btlles."
+
+msgid "Estuche Pétalos del Bierzo - 2 botellas"
+msgstr "Coffret Pétalos del Bierzo - 2 btlles."
+
+msgid "Lote Idrias Sevil - Caja de madera con 3 botellas"
+msgstr "Caisse bois de 3 btlles. Idrias Sevil"
+
+msgid "Estuche Marqués de Murrieta"
+msgstr "Coffret Marqués de Murrieta"
+
+msgid "Estuche L'O de l'Origan Brut Nature"
+msgstr "Coffret L'O de l'Origan Brut Nature"
+
+msgid "Lote Cérvoles Negre - Caja de madera con 3 botellas"
+msgstr "Caisse bois de 3 btlles. Cérvoles Negre"
+
+msgid "Estuche Castell del Remei 1780 2003 Magnum + 2 copas"
+msgstr "Coffret Castell del Remei 1780 2003 Magnum + 2 verres à vin"
+
+msgid "Maletín isotérmico Veuve Clicquot + 2 copas"
+msgstr "Veuve Clicquot Traveler + 2 flûtes"
+
+msgid "Estuche R de Ruinart"
+msgstr "Coffret R de Ruinart"
+
+msgid "Lote Muga Reserva - Caja de madera con 3 botellas"
+msgstr "Caisse bois de 3 btlles. Muga Reserva"
+
+msgid "Lote Castillo Ygay - Caja de madera con 3 botellas"
+msgstr "Caisse bois de 3 btlles. Castillo Ygay"
+
+msgid "Estuche Dom Pérignon 1998 + 2 copas"
+msgstr "Coffret Dom Pérignon 1998 + 2 flûtes"
+
+msgid "Lote Inés Vizcarra - Caja de madera de 3 botellas"
+msgstr "Caisse bois de 3 btlles. Inés Vizcarra"
+
+msgid "Lote Dalmau - Caja de madera con 6 botellas"
+msgstr "Caisse bois de 6 btlles. Dalmau"
+
+msgid "Estuche Krug Grande Cuvée - Hat Box"
+msgstr "Coffret Krug Grande Cuvée - Hat Box"
+
+msgid "Colección 5 vinos españoles 100 Parker - 2004"
+msgstr "Les 5 Vins Espagnols 100/100 Parker - Collection 2004"
+
+msgid "Colección 2 vinos españoles 100 Parker - 2005"
+msgstr "Les 2 Vins Espagnols 100/100 Parker - Collection 2004"
+
+msgid "Oriol Rossell Gran Reserva + 6 copas"
+msgstr "Oriol Rossell Gran Reserva + 6 flûtes"
+
+msgid "Pierre Paillard Brut Grand Cru + 6 copas"
+msgstr "Pierre Paillard Brut Grand Cru + 6 flûtes"
+
+msgid "Áster Crianza + decantador"
+msgstr "Áster Crianza + carafe à aérer"
+
+msgid "Lagar de Cervera + sacacorchos"
+msgstr "Lagar de Cervera + tire-bouchon"
+
+msgid "Estuche Gin Citadelle + 2 vasos"
+msgstr "Coffret Gin Citadelle + 2 verres à gin"
+
+msgid "Ron Cockspur 12 años + tumbler"
+msgstr "Ron Cockspur 12 ans + tumbler"
+
+msgid "Martin Miller's Gin + 2 Fever-Tree"
+msgstr "Martin Miller's Gin + 2 Fever-Tree"
+
+msgid "Gin Raffles + 1 Fever-Tree"
+msgstr "Gin Raffles + 1 Fever-Tree"
+
+#. COMPLEMENTOS
+
+msgid "Copa de Champagne Don Pérignon"
+msgstr "Flûte Don Pérignon"
+
+msgid "Decantador Áster"
+msgstr "Carafe à aérer Áster"
+
+msgid "Vaso Citadelle"
+msgstr "Verre à gin Citadelle"
+
+msgid "Copa Spiegelau Modelo Festival Bordeaux"
+msgstr "Verre à vin Spiegelau modèle Festival Bordeaux"
+
+msgid "Tónica Fever-Tree"
+msgstr "Tonic Fever-Tree"
+
+msgid "Sacacorchos Lagar de Cervera"
+msgstr "Tire-bouchon Lagar de Cervera"
+
+msgid "Vaso de ron Cockspur 12 años"
+msgstr "Verre à rhum Cockspur 12 ans"
+
+msgid "Estuche (envoltorio) Dom Pérignon"
+msgstr "Coffret Dom Pérignon"
+
+msgid "Estuche (envoltorio) R de Ruinart"
+msgstr "Coffret R de Ruinart"
+
+msgid "Caja de madera Vinissimus - 3 botellas"
+msgstr "Caisse bois Vinissimus - 3 bouteilles"
+
+msgid "Caja de madera Vinissimus - 6 botellas"
+msgstr "Caisse bois Vinissimus - 6 bouteilles"
+
+msgid "Caja jamonera pequeña Vinissimus"
+msgstr "Caisse bois pour jambon Vinissimus - modèle moyen"
+
+msgid "Caja jamonera grande Vinissimus"
+msgstr "Caisse bois pour jambon Vinissimus - modèle grand"
+
+#. LOTES DE NAVIDAD
+msgid "Lote de Navidad nº 1"
+msgstr "Panier de Noël nº 1"
+
+msgid "Lote de Navidad nº 2"
+msgstr "Panier de Noël nº 2"
+
+msgid "Lote de Navidad nº 3"
+msgstr "Panier de Noël nº 3"
+
+msgid "Lote de Navidad nº 4"
+msgstr "Panier de Noël nº 4"
+
+msgid "Lote de Navidad nº 5"
+msgstr "Panier de Noël nº 5"
+
+msgid "Lote de Navidad nº 6"
+msgstr "Panier de Noël nº 6"
+
+msgid "Lote de Navidad nº 7"
+msgstr "Panier de Noël nº 7"
+
+msgid "Lote de Navidad nº 8"
+msgstr "Panier de Noël nº 8"
+
+msgid "Lote de Navidad nº 9"
+msgstr "Panier de Noël nº 9"
+
+msgid "Lote de Navidad nº 10"
+msgstr "Panier de Noël nº 10"
+
+msgid "Selección Especial Navidad nº 1"
+msgstr "Coffret Noël nº 1"
+
+msgid "Los precios del transporte para las Islas Canarias, Ceuta y Melilla incluyen coste del transporte y seguro, pero no los aranceles de importación e impuestos locales, que correrán a cargo del cliente en destino."
+msgstr "Les prix du transport vers les Îles Canaries, Ceuta et Melilla incluent le transport et l'assurance mais non les droits de douane, les impôts locaux et tout autre frais d'importation, qui seront à la charge du client à destination."
+
+msgid "Los precios del transporte para Andorra incluyen coste del transporte y seguro pero no los aranceles de importación e impuestos locales, aunque nuestro departamento de Atención al Cliente se pondrá en contacto con el comprador para poder pagarlos en origen."
+msgstr "Les prix du transport pour l'Andorre incluent le transport et l'assurance mais non les droits de douane, les impôts locaux et tout autre frais d'importation, qui seront à la charge du client à destination."
+
+msgid "Los precios del transporte para Suiza incluyen coste del transporte y seguro, pero no los aranceles de importación e impuestos locales, que correrán a cargo del cliente en destino."
+msgstr "Les prix du transport pour la Suisse incluent le transport et l'assurance mais non les droits de douane, les impôts locaux et tout autre frais d'importation, qui seront à la charge du client à destination."
+
+msgid "Vinos del mundo"
+msgstr "Vins du monde"
+
+msgid "Los envíos de volumen a Reino Unido están sujetos a aranceles de importación e impuestos locales. Una vez recibida la confirmación de su pedido, nuestro Dep. de Atención al Cliente se pondrá en contacto con usted para informarle sobre su gestión."
+msgstr "Les envois volumineux à destination du Royaume-Uni sont soumis à des taxes d'importation et des taxes locales. Dès confirmation de votre commande, notre Service Client prendra contact avec vous pour vous informer des démarches à faire."
+
+msgid "Los envíos de volumen a Irlanda están sujetos a aranceles de importación e impuestos locales. Una vez recibida la confirmación de su pedido, nuestro Dep. de Atención al Cliente se pondrá en contacto con usted para informarle sobre su gestión."
+msgstr "Les envois volumineux vers l'Irlande sont soumis à des taxes d'importation et des taxes locales. Dès confirmation de votre commande, notre Service Client prendra contact avec vous pour vous informer des démarches à faire."
+
+msgid "Los envíos de volumen a Luxemburgo están sujetos a aranceles de importación e impuestos locales. Una vez recibida la confirmación de su pedido, nuestro Dep. de Atención al Cliente se pondrá en contacto con usted para informarle sobre su gestión."
+msgstr "Les envois volumineux à destination de Luxembourg sont soumis à des taxes d'importation et des taxes locales. Dès confirmation de votre commande, notre Service Client prendra contact avec vous pour vous informer des démarches à faire."
+
+msgid "Los envíos de volumen a Suecia están sujetos a aranceles de importación e impuestos locales. Una vez recibida la confirmación de su pedido, nuestro Dep. de Atención al Cliente se pondrá en contacto con usted para informarle sobre su gestión."
+msgstr "Les envois volumineux vers la Suède sont soumis à des taxes d'importation et des taxes locales. Dès confirmation de votre commande, notre Service Client prendra contact avec vous pour vous informer des démarches à faire."
+
+msgid "Los precios del transporte para Suiza incluyen coste del transporte y seguro, pero no los aranceles de importación e impuestos locales. Una vez recibida la confirmación de su pedido, nuestro Dep. de Atención al Cliente se pondrá en contacto con usted para informarle sobre su gestión."
+msgstr "Les prix du transport pour la Suisse incluent le transport et l'assurance mais non les droits de douane et les impôts locaux. Dès confirmation de votre commande, notre Service Client prendra contact avec vous pour vous informer des démarches à faire."
+
+msgid "Los precios del transporte para Andorra incluyen coste del transporte y seguro pero no los aranceles de importación e impuestos locales. Una vez recibida la confirmación de su pedido, nuestro Dep. de Atención al Cliente se pondrá en contacto con usted para informarle sobre su gestión."
+msgstr "Les prix du transport pour l'Andorre incluent le transport et l'assurance mais non les droits de douane et les impôts locaux. Dès confirmation de votre commande, notre Service Client prendra contact avec vous pour vous informer des démarches à faire."
+
+msgid "Los envíos de volumen a Países Bajos están sujetos a aranceles de importación e impuestos locales. Una vez recibida la confirmación de su pedido, nuestro Dep. de Atención al Cliente se pondrá en contacto con usted para informarle sobre su gestión."
+msgstr "Les envois volumineux aux Pays-Bas sont soumis à des taxes d'importation et des taxes locales. Dès confirmation de votre commande, notre Service Client prendra contact avec vous pour vous informer des démarches à faire."
+
+msgid "Los envíos de volumen a Dinamarca están sujetos a aranceles de importación e impuestos locales. Una vez recibida la confirmación de su pedido, nuestro Dep. de Atención al Cliente se pondrá en contacto con usted para informarle sobre su gestión."
+msgstr "Les envois volumineux au Danemark sont soumis à des taxes d'importation et des taxes locales. Dès confirmation de votre commande, notre Service Client prendra contact avec vous pour vous informer des démarches à faire."
+
+msgid "Los envíos de volumen a Polonia están sujetos a aranceles de importación e impuestos locales. Una vez recibida la confirmación de su pedido, nuestro Dep. de Atención al Cliente se pondrá en contacto con usted para informarle sobre su gestión."
+msgstr "Les envois volumineux en Pologne sont soumis à des taxes d'importation et des taxes locales. Dès confirmation de votre commande, notre Service Client prendra contact avec vous pour vous informer des démarches à faire."
+
+msgid "Los envíos de volumen a Bélgica están sujetos a aranceles de importación e impuestos locales. Una vez recibida la confirmación de su pedido, nuestro Dep. de Atención al Cliente se pondrá en contacto con usted para informarle sobre su gestión."
+msgstr "Les envois volumineux en Belgique sont soumis à des taxes d'importation et des taxes locales. Dès confirmation de votre commande, notre Service Client prendra contact avec vous pour vous informer des démarches à faire."
+
+msgid "Negra"
+msgstr "Noire"
+
+msgid "Cerveza negra"
+msgstr "Bière noire"
+
+msgid "Rubia"
+msgstr "Blonde"
+
+msgid "Cerveza rubia"
+msgstr "Bière blonde"
+
+msgid "Afrutada"
+msgstr "Fruitée"
+
+msgid "Cerveza afrutada"
+msgstr "Bière fruitée"
+
+msgid "Tostada"
+msgstr "Torréfiée"
+
+msgid "Cerveza tostada"
+msgstr "Bière torréfiée"
+
+msgid "Lager"
+msgstr "Lager"
+
+msgid "Ale"
+msgstr "Ale"
+
+msgid "Roja"
+msgstr "Rouge"
+
+msgid "Lambica"
+msgstr "Lambic"
+
+msgid "Espumoso (Italia)"
+msgstr "Vin&nbsp;mousseux&nbsp;(Italie)"
+
+msgid "Espumoso (Portugal)"
+msgstr "Vin&nbsp;mousseux&nbsp;(Portugal)"
+
+msgid "Espumoso (Eslovenia)"
+msgstr "Vin&nbsp;mousseux&nbsp;(Slovénie)"
+
+msgid "Crémant"
+msgstr "Crémant"
+
+msgid "Blanquette de Limoux"
+msgstr "Blanquette de Limoux"
+
+msgid "Cervezas de ${pais}"
+msgstr "Bières ${pais}"
+
+msgid "Cervezas de ${productor}"
+msgstr "Bières ${productor}"
+
+msgid "carne"
+msgstr "viandes"
+
+msgid "embutidos"
+msgstr "charcuteries"
+
+msgid "pescado"
+msgstr "poissons"
+
+msgid "cerdo"
+msgstr "porc"
+
+msgid "quesos"
+msgstr "fromages"
+
+msgid "quesos azules y/o maduros"
+msgstr "fromages bleus et/ou faits"
+
+msgid "postre"
+msgstr "desserts"
+
+msgid "marisco"
+msgstr "fruits de mer"
+
+msgid "picante"
+msgstr "plats épicés"
+
+msgid "sola, como refresco"
+msgstr "seule, pour le plaisir"
+
+msgid "Marruecos"
+msgstr "Maroc"
+
+msgid "China"
+msgstr "Chine"
+
+msgid "Suroeste"
+msgstr "Sud-Ouest"
+
+msgid "ahumados"
+msgstr "produits fumés"
+
+msgid "anchoas"
+msgstr "anchois"
+
+msgid "aperitivos"
+msgstr "apéritifs"
+
+msgid "arroces"
+msgstr "riz"
+
+msgid "arroces ligeros"
+msgstr "riz légers"
+
+msgid "arroces melosos"
+msgstr "riz moelleux"
+
+msgid "asados"
+msgstr "rôtis"
+
+msgid "barbacoas"
+msgstr "barbecues"
+
+msgid "bechameles"
+msgstr "béchamels"
+
+msgid "bechameles fuertes"
+msgstr "béchamels relevées"
+
+msgid "bocadillos"
+msgstr "sandwiches"
+
+msgid "bocadillos ligeros"
+msgstr "sandwiches légers"
+
+msgid "carnes"
+msgstr "viandes"
+
+msgid "carnes blancas"
+msgstr "viandes blanches"
+
+msgid "carnes blancas en salsa"
+msgstr "viandes blanches en sauce"
+
+msgid "carnes en salsa"
+msgstr "viandes en sauce"
+
+msgid "carnes rojas"
+msgstr "viandes rouges"
+
+msgid "ceviches"
+msgstr "céviches"
+
+msgid "chocolate"
+msgstr "chocolat"
+
+msgid "comida amarga (alcachofas, endivias)"
+msgstr "plat amer (artichauts, endives)"
+
+msgid "comida picante y/o especiada"
+msgstr "plat relevé"
+
+msgid "cordero"
+msgstr "agneau"
+
+msgid "cremas"
+msgstr "crèmes"
+
+msgid "embutidos amargos"
+msgstr "charcuteries fortes"
+
+msgid "embutidos suaves"
+msgstr "charcuteries légères"
+
+msgid "ensaladas"
+msgstr "salades"
+
+msgid "ensaladas cítricas"
+msgstr "salades aux agrumes"
+
+msgid "ensaladas de queso"
+msgstr "salades au fromage"
+
+msgid "entrantes"
+msgstr "hors d'œuvre"
+
+msgid "entrantes dulces"
+msgstr "hors d'œuvre légers"
+
+msgid "escabeches"
+msgstr "marinade"
+
+msgid "estofados"
+msgstr "estouffades"
+
+msgid "frutos secos"
+msgstr "fruits secs"
+
+msgid "guisos"
+msgstr "ragoûts"
+
+msgid "guisos de carne"
+msgstr "ragoûts de viande"
+
+msgid "guisos ligeros"
+msgstr "ragoûts légers"
+
+msgid "hamburguesas"
+msgstr "hamburgers"
+
+msgid "helados"
+msgstr "glaces"
+
+msgid "hortalizas"
+msgstr "primeurs"
+
+msgid "jamón"
+msgstr "jambon"
+
+msgid "lasañas"
+msgstr "lasagnes"
+
+msgid "moluscos"
+msgstr "mollusques"
+
+msgid "ostras"
+msgstr "huitres"
+
+msgid "pasta"
+msgstr "pâtes"
+
+msgid "pasta con queso"
+msgstr "pâtes au fromage"
+
+msgid "pasta en salsa"
+msgstr "pâtes en sauce"
+
+msgid "pastel de carne"
+msgstr "tourte à la viande"
+
+msgid "pato"
+msgstr "canard"
+
+msgid "pato a la naranja"
+msgstr "canard à l'orange"
+
+msgid "pescado blanco"
+msgstr "poisson blanc"
+
+msgid "pescado crudo"
+msgstr "poisson cru"
+
+msgid "pescado en salsa"
+msgstr "poisson en sauce"
+
+msgid "pescado ligero"
+msgstr "poisson léger"
+
+msgid "pizzas"
+msgstr "pizzas"
+
+msgid "platos de caza"
+msgstr "gibier"
+
+msgid "postres"
+msgstr "desserts"
+
+msgid "postres de café"
+msgstr "desserts au café"
+
+msgid "postres de chocolate"
+msgstr "desserts au chocolat"
+
+msgid "postres de chocolate y vainilla"
+msgstr "desserts au chocolat et à la vanille"
+
+msgid "postres dulces"
+msgstr "desserts sucrés"
+
+msgid "postres ligeros"
+msgstr "desserts légers"
+
+msgid "puros"
+msgstr "cigares"
+
+msgid "quesos ahumados"
+msgstr "fromages fumés"
+
+msgid "quesos azules"
+msgstr "fromages bleus"
+
+msgid "quesos azules y grasos"
+msgstr "fromages bleus et gras"
+
+msgid "quesos grasos"
+msgstr "fromages gras"
+
+msgid "quesos intensos"
+msgstr "fromages forts"
+
+msgid "quesos ligeros"
+msgstr "fromages légers"
+
+msgid "quesos semicurados"
+msgstr "fromages mi-affinés"
+
+msgid "quesos semigrasos"
+msgstr "fromages mi-gras"
+
+msgid "quesos suaves"
+msgstr "fromages doux"
+
+msgid "quesos tiernos"
+msgstr "fromages à pâte molle"
+
+msgid "snacks"
+msgstr "snacks"
+
+msgid "sobremesa"
+msgstr "après-repas"
+
+msgid "Vino espumoso con D.O. ${region}"
+msgstr "Vin mousseux ${region}"
+
+msgid "Vino espumoso de ${pais}"
+msgstr "Vin mousseux ${pais}"
+
+msgid "Criado en barrica"
+msgstr "Vieilli en chêne"
+
+msgid "Clarete"
+msgstr "Clarete"
+
+msgid "Otros vinos rosados ${region}"
+msgstr "Autres vins rosés ${region}"
+
+msgid "Otros vinos dulces ${region}"
+msgstr "Autres vins doux ${region}"
+
+msgid "Más de 36 &euro;"
+msgstr "Plus de 36 &euro;"
+
+msgid "Naturalmente dulce"
+msgstr "Naturellement doux"
+
+msgid "Dulce licoroso"
+msgstr "Doux liquoreux"
+
+msgid "Aromatizado"
+msgstr "Aromatisé"
+
+msgid "Dulce aromatizado"
+msgstr "Doux aromatisé"
+
+msgid "Dulce espumoso"
+msgstr "Mousseux doux"
+
+msgid "Espumoso Blanco"
+msgstr "Vin mousseux blanc"
+
+msgid "Espumoso Rosado"
+msgstr "Vin mousseux rosé"
+
+msgid "Espumoso Blanc de blancs"
+msgstr "Vin mousseux blanc de blancs"
+
+msgid "Espumoso Blanc de noirs"
+msgstr "Vin mousseux blanc de noirs"
+
+msgid "Vino espumoso de más de ${inf} euros"
+msgstr "Vin mousseux de plus de ${inf} euros"
+
+msgid "Vino espumoso con precio comprendido entre ${inf} y ${sup} euros"
+msgstr "Vin mousseux à prix compris entre ${inf} et ${sup} euros"
+
+msgid "Islas"
+msgstr "Îles"
+
+msgid "El vino más vendido de ${nombre_sitio}"
+msgstr "Le vin le plus vendu de ${nombre_sitio}"
+
+msgid "El vino más vendido"
+msgstr "Le vin le plus vendu"
+
+msgid "El 2º vino más vendido de ${nombre_sitio}"
+msgstr "Le 2e vin le plus vendu de ${nombre_sitio}"
+ 
+msgid "El 2º vino más vendido"
+msgstr "Le 2e vin le plus vendu"
+ 
+msgid "La cerveza más vendida de ${nombre_sitio}"
+msgstr "La bière la plus vendue de ${nombre_sitio}"
+ 
+msgid "La cerveza más vendida"
+msgstr "La bière la plus vendue"
+
+msgid "La segunda cerveza más vendida de ${nombre_sitio}"
+msgstr "La seconde bière la plus vendue de ${nombre_sitio}"
+
+msgid "La segunda cerveza más vendida"
+msgstr "La seconde bière la plus vendue"
+
+msgid "Otros tipos"
+msgstr "Autres types"
+
+msgid "Generoso de licor"
+msgstr "Xérès doux"
+
+msgid "Vino blanco"
+msgstr "Vin blanc"
+
+msgid "Tinto(adj)"
+msgstr "Rouge"
+
+msgid "Blanco(adj)"
+msgstr "Blanc"
+
+msgid "Rosado(adj)"
+msgstr "Rosé"
+
+msgid "Más de 100 &euro;"
+msgstr "Plus de 100 &euro;"
+
+msgid "No es posible la entrega en Madeira."
+msgstr "Il n'est pas possible d'effectuer de livraison à Madère ni aux îles des Açores."
+
+msgid "No es posible la entrega en la Isla de Man, ni tampoco en Jersey y Guernsey (islas del Canal)."
+msgstr "Il n'est pas possible d'effectuer de livraison à l'Île de Man, l'Île de Skye, ni à Jersey ou Guernsey (îles de la Manche)."
+
+msgid "No es posible la entrega en los departamentos o colectividades de ultramar (DOM y COM)."
+msgstr "Il n'est pas possible d'effectuer de livraison dans les départements ou les collectivités d'Outre-Mer (DOM-TOM)."
+
+msgid "Más de 5 &euro;"
+msgstr "Plus de 5 &euro;"
+
+
+
+#. SUPRAREGIONES
+
+msgid "Andalucía"
+msgstr "Andalousie"
+
+msgid "Aragón"
+msgstr "Aragon"
+
+msgid "Cantabria"
+msgstr "Cantabrie"
+
+msgid "Castilla - La Mancha"
+msgstr "Castille - La Manche"
+
+msgid "Castilla y León"
+msgstr "Castille-et-León"
+
+msgid "Cataluña"
+msgstr "Catalogne"
+
+msgid "Comunidad de Madrid"
+msgstr "Communauté de Madrid"
+
+msgid "Comunidad Valenciana"
+msgstr "Communauté valencienne"
+
+msgid "Extremadura"
+msgstr "Estrémadure"
+
+msgid "Galicia"
+msgstr "Galice"
+
+msgid "Islas Baleares"
+msgstr "Îles Baléares"
+
+msgid "Islas Canarias"
+msgstr "Îles Canaries"
+
+msgid "La Rioja"
+msgstr "La Rioja"
+
+msgid "Navarra"
+msgstr "Navarre"
+
+msgid "País Vasco"
+msgstr "Pays basque"
+
+msgid "Principado de Asturias"
+msgstr "Asturies"
+
+msgid "Región de Murcia"
+msgstr "Région de Murcie"
+
+msgid "Sin denominación (ES)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (FR)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (IT)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (DE)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (PT)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (AR)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (AU)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (AT)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (BG)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (CA)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (CL)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (SL)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (US)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (ES)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (GE)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (GR)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (HU)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (NZ)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (ZA)"
+msgstr "Vins sans IG"
+
+msgid "Sin denominación (UR)"
+msgstr "Vins sans IG"
+
+msgid "[Adwords]Vino"
+msgstr "Vin"
+
+msgid "Llenado alto [HF]"
+msgstr "Parfait [HF]"
+
+msgid "En el cuello [IN]"
+msgstr "Dans le goulot [IN]"
+
+msgid "En la punta del hombro [BN]"
+msgstr "Base du goulot [BN]"
+
+msgid "En el hombro superior [TS]"
+msgstr "Début épaule [TS]"
+
+msgid "En la mitad del hombro [MS]"
+msgstr "Mi-épaule [MS]"
+
+msgid "En bajo hombro [LS]"
+msgstr "Bas épaule [LS]"
+
+msgid "Abajo del bajo hombro [BS]"
+msgstr "Sous le bas de l'épaule [BS]"
+
+
+#. Métodos de elaboración
+
+msgid "Métodos de elaboración"
+msgstr "Méthodes d'élaboration"
+
+msgid "Método tradicional"
+msgstr "Méthode traditionnelle "
+
+msgid "Método ancestral"
+msgstr "Méthode ancestrale"
+
+msgid "Método Charmat"
+msgstr "Méthode Charmat"
+
+msgid "Otros[métodos]"
+msgstr "Autres"
+
+

@@ -1,0 +1,352 @@
+# Gettext Message File for PlacelessTranslationService.
+msgid ""
+msgstr ""
+"Project-Id-Version: pts-\n"
+"POT-Creation-Date: 2003-10-04 12:51+0300\n"
+"Last-Translator: \n"
+"Language-Team:  <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-code: it\n"
+"Language-name: Italiano\n"
+"Preferred-encodings: utf-8 latin9 latin1\n"
+"Domain: backoffice\n"
+
+# Amb python 2.7.3, la primera entrada no la carrega
+# import gettext
+# t = gettext.translation('db', "/opt/Zope2/locales", languages=['en'])
+# _ = t.gettext
+# print _(u'dummy')
+msgid "dummy"
+msgstr "dummy2"
+
+
+msgid "Caja madera 6"
+msgstr "Scatola legno 6"
+
+msgid "Caja madera 3"
+msgstr "Scatola legno 3"
+
+msgid "Caja madera 2"
+msgstr "Scatola legno 2"
+
+msgid "Caja madera 1"
+msgstr "Scatola legno 1"
+
+msgid "Caja madera 4"
+msgstr "Scatola legno 4"
+
+msgid "Caja normal 6"
+msgstr " Cartone standard  6"
+
+msgid "Caja normal 4"
+msgstr "Cartone standard 4"
+
+msgid "Caja normal 3"
+msgstr "Cartone standard 3"
+
+msgid "Caja normal 2"
+msgstr "Cartone standard 2"
+
+msgid "Caja normal 1"
+msgstr "Cartone standard 1"
+
+msgid "Palet 80x60"
+msgstr "Pallet 80x60"
+
+msgid "Palet 120x80"
+msgstr "Pallet 120x80"
+
+msgid "${texto}\n\nPágina ${npag} de ${ndocs}\n\n"
+msgstr "${texto}\n\nPagina ${npag} di ${ndocs}\n\n"
+
+msgid "${n} cajas ${nombre} (${capacidad} botellas por caja)"
+msgstr "${n} scatola ${nombre} (${capacidad} bottiglie per scatola)"
+
+msgid "Continúa en la página siguiente..."
+msgstr "Continua nella prossima pagina..."
+
+msgid "Opciones de regalo"
+msgstr "Opzioni regalo"
+
+msgid "* Envoltorio de regalo"
+msgstr "* Avvolgere con carta regalo"
+
+msgid "* Tarjeta de regalo"
+msgstr "* Biglietto d'auguri"
+
+msgid "Items"
+msgstr "Items"
+
+msgid "Botellas"
+msgstr "Bottiglie"
+
+msgid "entrega"
+msgstr "consegna"
+
+msgid "Observaciones"
+msgstr "Osservazioni"
+
+msgid "Entrega personal"
+msgstr "Consegna a mano"
+
+msgid "Caduca"
+msgstr "Scadenza"
+
+msgid "Total unidades en"
+msgstr "Unità totali in"
+
+msgid "Tarjeta de crédito"
+msgstr "Carta di credito"
+
+msgid "Descuento"
+msgstr "Sconto"
+
+msgid "Compra ${id_compra} - Global Hispavinus"
+msgstr "Acquisto ${id_compra} - Italvinus"
+
+msgid "Compra Vinissimus"
+msgstr "Acquisto Italvinus"
+
+msgid "Apreciado colaborador"
+msgstr "Gentile collaboratore"
+
+msgid "A continuación les detallamos una nueva solicitud de compra. Los productos solicitados deberán entregarse en nuestro almacén de Montcada dentro del plazo de entrega acordado."
+msgstr "Di seguito il dettaglio di un nuovo acquisto. I prodotti richiesti dovranno esser consegnati presso il nostro magazzino di Trezzano sul Naviglio."
+
+msgid "Referencia: ${id_compra}"
+msgstr "Referenza: ${id_compra}"
+
+msgid "Fecha de lanzamiento: ${fecha}"
+msgstr "Data ordine: ${fecha}"
+
+msgid "Bot."
+msgstr "Bott."
+
+msgid "Producto"
+msgstr "Prodotto"
+
+msgid "Por favor, revisen la disponibilidad y añadas de dichos productos, y si fuera necesario realizar algún cambio, les rogamos que nos lo comuniquen a la mayor brevedad posible."
+msgstr "Vi chiediamo gentilmente di controllare la disponibilità dei prodotti sopra elencati. Se fosse necessario effettuare un cambio di annata, Vi chiediamo di comunicarcelo il più velocemente possibile."
+
+msgid "Para cualquier duda o consulta, estamos a su disposición."
+msgstr "Restiamo a disposizione per ulteriori delucidazioni."
+
+msgid "Reciban un cordial saludo."
+msgstr "Cordiali Saluti,"
+
+msgid "Departamento de Compras"
+msgstr "Ufficio Acquisti"
+
+msgid "Vinissimus (http://www.vinissimus.com)"
+msgstr "Italvinus (http://www.italvinus.it)"
+
+msgid "Selección y venta de vinos."
+msgstr "Vendita di vini italiani."
+
+msgid "Tel. 930 022 245"
+msgstr "Tel. 02 4455353"
+
+msgid "Almacén de entrega:"
+msgstr "Magazzino di consegna:"
+
+msgid "Vinissimus"
+msgstr "Italvinus"
+
+msgid "C/ Vivaldi nº 8 (Pol. Foinvasa)"
+msgstr "V.le Tommaso Edison 46"
+
+msgid "08110 Montcada i Reixac"
+msgstr "20090 Trezzano sul Naviglio"
+
+msgid "Horario: 9.00-14.00 / 15.00-17.00"
+msgstr "Orario: 9.00-14.00 / 15.00-17.00"
+
+msgid "De lunes a viernes"
+msgstr "Da lunedì a venerdì"
+
+msgid "Persona de contacto: Xavi Huguet"
+msgstr "Persona di contatto: Costanza Barberis"
+
+msgid "España"
+msgstr "España"
+
+msgid "Portugal"
+msgstr "Portogallo"
+
+msgid "Francia"
+msgstr "Francia"
+
+msgid "Alemania"
+msgstr "Germania"
+
+msgid "Italia"
+msgstr "Italia"
+
+msgid "Suiza"
+msgstr "Svizzera"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Reino Unido"
+msgstr "Regno Unito"
+
+msgid "Irlanda"
+msgstr "Irlanda"
+
+msgid "Bélgica"
+msgstr "Belgio"
+
+msgid "Países Bajos"
+msgstr "Paesi Bassi"
+
+msgid "Dinamarca"
+msgstr "Danimarca"
+
+msgid "Luxemburgo"
+msgstr "Lussemburgo"
+
+msgid "Polonia"
+msgstr "Polonia"
+
+msgid "República Checa"
+msgstr "Repubblica Ceca"
+
+msgid "Eslovaquia"
+msgstr "Slovacchia"
+
+msgid "Hungría"
+msgstr "Ungheria"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Rumanía"
+msgstr "Romania"
+
+msgid "Eslovenia"
+msgstr "Slovenia"
+
+msgid "Suecia"
+msgstr "Svezia"
+
+msgid "Finlandia"
+msgstr "Finlandia"
+
+msgid "Noruega"
+msgstr "Norvegia"
+
+msgid "Grecia"
+msgstr "Grecia"
+
+msgid "Estonia"
+msgstr "Estonia"
+
+msgid "Letonia"
+msgstr "Lettonia"
+
+msgid "Lituania"
+msgstr "Lituania"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Mónaco"
+msgstr "Monaco"
+
+msgid "Chipre"
+msgstr "Cipro"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Nueva Zelanda"
+msgstr "Nuova Zelanda"
+
+msgid "Estados Unidos"
+msgstr "Stati Uniti"
+
+msgid "Canadá"
+msgstr "Canada"
+
+msgid "Japón"
+msgstr "Giappone"
+
+msgid "Sudáfrica"
+msgstr "Sudafrica"
+
+msgid "Israel"
+msgstr "Israele"
+
+msgid "Chile"
+msgstr "Cile" 
+
+msgid "Gastos de envío"
+msgstr "Spese di spedizione"
+
+msgid "Gastos de envío + Reembolso"
+msgstr "Spese di spedizione + Contrassegno"
+
+msgid "Tarjeta de crédito"
+msgstr "Carta di credito"
+
+msgid "Al contado"
+msgstr "Contanti"
+
+msgid "Contra reembolso"
+msgstr "Contrassegno"
+
+msgid "Domiciliación bancaria"
+msgstr "RIBA"
+
+msgid "Transferencia bancaria"
+msgstr "Bonifico"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+msgid "* Descuento"
+msgstr "* Sconto" 
+
+msgid "C/ Óptica 12, Nave 23 (Pol. Ind. Santa Rita)"
+msgstr "Via Boccaccio 81H"
+
+msgid "08755 Castellbisbal"
+msgstr "20090 Trezzano sul Naviglio"
+
+msgid "Abono de la factura ${codigo}"
+msgstr "Nota di credito della fattura ${codigo}"
+
+msgid "Abono del comprobante ${codigo}"
+msgstr "Nota di credito della ricevuta ${codigo}"
+
+msgid "El pedido ${cod_pedido} ha sido enviado con factura sin IVA"
+msgstr "L'ordine ${cod_pedido} è stato inviato con fattura senza IVA"
+
+msgid "El pedido ${cod_pedido} ha sido enviado con factura sin IVA."
+msgstr "L'ordine ${cod_pedido} è stato inviato con fattura senza IVA."
+
+msgid "Revisar todas las gestiones administrativas pertinentes (DAS y factura)"
+msgstr "Controllare i proicessi amministrativi colegati (DAS e fattura)"
+
+msgid "Al contado"
+msgstr "In contanti"
+
+msgid "Domiciliación bancaria"
+msgstr "Domiciliazione bancaria"
+
+msgid "Múltiples entregas"
+msgstr "Consegna a più indirizzi"
+
+
+
+
