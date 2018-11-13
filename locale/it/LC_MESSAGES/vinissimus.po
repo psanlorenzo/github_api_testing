@@ -25963,3 +25963,6 @@ msgstr ""
 
 msgid "prueba 3"
 msgstr ""
+
+msgid "prueba docker"
+msgstr ""
